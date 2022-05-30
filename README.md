@@ -1,1 +1,1 @@
-Visit Linkk : https://fyntune.netlify.app
+Visit Link : https://fyntune.netlify.app
