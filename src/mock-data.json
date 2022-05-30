@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "fullName": "Zaveri Bazaar",
+      "address": "Thane",
+      "phoneNumber": "Grocery",
+      "open": "2021-07-02",
+      "close":"2022-04-22"
+    },
+    {
+      "id": 2,
+      "fullName": "Heera Panna Market",
+      "address": "Pune",
+      "phoneNumber": "Butcher",
+      "open": "2021-01-09",
+      "close":"2022-05-22"
+    },
+    {
+      "id": 3,
+      "fullName": "Lalbaug Market",
+      "address": "Mumbai Suburban",
+      "phoneNumber": "Baker",
+      "open": "2022-01-22",
+      "close":"2022-02-30"
+    },
+    {
+      "id": 4,
+      "fullName": "Hindmata Market",
+      "address": "Nashik",
+      "phoneNumber": "Chemist",
+      "open": "2021-01-11",
+      "close":"2022-09-21"
+    },
+    {
+      "id": 5,
+      "fullName": "Linking Road",
+      "address": "Nagpur",
+      "phoneNumber": "Stationery",
+      "open": "2021-12-20",
+      "close":"2022-02-22"
+    },
+    {
+      "id": 6,
+      "fullName": "Hill Road",
+      "address": "Ahmednagar",
+      "phoneNumber": "Jewelry",
+      "open": "2021-01-23",
+      "close":"2022-03-31"
+    },
+    {
+      "id": 7,
+      "fullName": "Lokhandwala Market",
+      "address": "Solapur",
+      "phoneNumber": "Clothes",
+      "open": "2020-11-01",
+      "close":"2021-04-01"
+    }
+  ]

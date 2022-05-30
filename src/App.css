@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+}
+
+/*----------------- Header --------------------------------*/
+
+.header {
+  background: #f5ba13;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #fff;
+  font-family: 'Tiro Kannada', serif;
+  font-weight: 600;
+  font-size: 30px;
+  margin: auto;
+}
+
+/*----------------- Create Shop --------------------------------*/
+
+.create-shop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.create-shop-form {
+  display: flex;
+}
+
+.input {
+  border: 1px solid ;
+  outline: none;
+  border-radius: 5%;
+  padding:10px;
+  margin:20px;
+}
+
+.button {
+  background: #f5ba13;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+@media only screen and (max-width: 1200px) {
+  .create-shop {
+    display: block;
+  }
+  .input {
+    padding:10px;
+    margin:20px;
+  }
+  .button {
+    margin-left: 20px;
+  }
+  .createshop-date {
+    margin-left: 20px;
+  }
+}
+
+/*---------------- Shop --------------------------------*/
+
+.shop {
+  border: 1px solid #000;
+  display: block;
+border-radius: 5%;
+display: flex;
+}
+
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+
+.table {
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+  width: 100%;
+
+}
+.edit-button{
+  background: #f5ba13;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 10%;
+  margin: 3px;
+}
+.delete-button{
+  background: #000;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 10%;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 1200px) {
+  .search {
+    display: block;
+  }
+}
+
+.edit-button-save{
+  background: #000;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 10%;
+  margin-right: 3px;
+}
+
+.edit-button-cancel{
+  background: #f5ba13;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 10%;
+}
+
+
+
